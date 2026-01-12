@@ -12,12 +12,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MicaelliCode/micaellicode/main/assets/readme-typing-svg.svg" alt="Typing SVG" />
-</p>
-
----
-
 <h2 align="center">Sobre Mim 🚀</h2>
 
 <p align="justify">
@@ -52,12 +46,6 @@ Busco minha primeira oportunidade profissional na área de tecnologia, onde poss
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   
-</p>
-
----
-
-<p align="center">
-  Feito com ❤️ por <strong>SEU NOME</strong>
 </p>
 
 <br>
